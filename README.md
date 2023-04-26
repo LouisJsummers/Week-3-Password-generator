@@ -1,4 +1,4 @@
-# Week-2-password-generator
+# Week-2-Password-Generator
 
 ## User Story
 
